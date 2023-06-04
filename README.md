@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -60,8 +60,8 @@ Path planning in 3D printing refers to the process of determining the optimal to
 
 ## Output:
 
-### Name:v.baskaran
-### Register Number:21222230020
+### Name:  P.PradeepRaj
+### Register Number:212222240073
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
